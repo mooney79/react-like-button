@@ -1,23 +1,26 @@
-import logo from './logo.svg';
+import {useState} from 'react';
 import './App.css';
 
 function App() {
+
+  let [likes, setLikes] = useState(0);
+
+  function updateLikes() {
+    setLikes(likes = likes +1);    
+  }
+  
+  function likeOutput(){
+    if (likes === 1) {
+      return (<p> {likes} like</p>);
+    } else {
+       return (<p> {likes} likes</p>);
+    }
+  }
+
   return (
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+       <button onClick = {updateLikes} type="button">Like</button>
+       {likeOutput()}
     </div>
   );
 }
