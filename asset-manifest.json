@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/mooney79/react-like-button/static/css/main.a617e044.chunk.css",
+    "main.js": "/mooney79/react-like-button/static/js/main.bb470167.chunk.js",
+    "main.js.map": "/mooney79/react-like-button/static/js/main.bb470167.chunk.js.map",
+    "runtime-main.js": "/mooney79/react-like-button/static/js/runtime-main.583d564e.js",
+    "runtime-main.js.map": "/mooney79/react-like-button/static/js/runtime-main.583d564e.js.map",
+    "static/js/2.6e4815fb.chunk.js": "/mooney79/react-like-button/static/js/2.6e4815fb.chunk.js",
+    "static/js/2.6e4815fb.chunk.js.map": "/mooney79/react-like-button/static/js/2.6e4815fb.chunk.js.map",
+    "static/js/3.6729d865.chunk.js": "/mooney79/react-like-button/static/js/3.6729d865.chunk.js",
+    "static/js/3.6729d865.chunk.js.map": "/mooney79/react-like-button/static/js/3.6729d865.chunk.js.map",
+    "index.html": "/mooney79/react-like-button/index.html",
+    "static/css/main.a617e044.chunk.css.map": "/mooney79/react-like-button/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.6e4815fb.chunk.js.LICENSE.txt": "/mooney79/react-like-button/static/js/2.6e4815fb.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.583d564e.js",
+    "static/js/2.6e4815fb.chunk.js",
+    "static/css/main.a617e044.chunk.css",
+    "static/js/main.bb470167.chunk.js"
+  ]
+}
