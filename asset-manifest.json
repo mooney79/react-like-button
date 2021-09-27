@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/react-like-button/static/css/main.57c2b91f.chunk.css",
-    "main.js": "/react-like-button/static/js/main.3768fbe1.chunk.js",
-    "main.js.map": "/react-like-button/static/js/main.3768fbe1.chunk.js.map",
+    "main.js": "/react-like-button/static/js/main.aadaaf39.chunk.js",
+    "main.js.map": "/react-like-button/static/js/main.aadaaf39.chunk.js.map",
     "runtime-main.js": "/react-like-button/static/js/runtime-main.2e839689.js",
     "runtime-main.js.map": "/react-like-button/static/js/runtime-main.2e839689.js.map",
     "static/js/2.6e4815fb.chunk.js": "/react-like-button/static/js/2.6e4815fb.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.2e839689.js",
     "static/js/2.6e4815fb.chunk.js",
     "static/css/main.57c2b91f.chunk.css",
-    "static/js/main.3768fbe1.chunk.js"
+    "static/js/main.aadaaf39.chunk.js"
   ]
 }
