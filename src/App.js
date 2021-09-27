@@ -11,10 +11,11 @@ function App() {
   
   function likeOutput(){
     if (likes === 1) {
-      return (<p><i className="fas fa-thumbs-up"></i> &nbsp;{likes} like</p>);
+      return (<p><i className="fas fa-thumbs-up" style={{color: "blue"}}></i> &nbsp;{likes} like</p>);
     } else {
-       return (<p><i className="fas fa-thumbs-up"></i> &nbsp;{likes} likes</p>);
-    }
+       return (<p><i className="fas fa-thumbs-up" style={{color: "blue"}}></i> &nbsp;{likes} likes</p>);
+    
+      }
   }
 
   return (
