@@ -11,9 +11,9 @@ function App() {
   
   function likeOutput(){
     if (likes === 1) {
-      return (<p> {likes} like</p>);
+      return (<p><i className="fas fa-thumbs-up"></i> &nbsp;{likes} like</p>);
     } else {
-       return (<p> {likes} likes</p>);
+       return (<p><i className="fas fa-thumbs-up"></i> &nbsp;{likes} likes</p>);
     }
   }
 

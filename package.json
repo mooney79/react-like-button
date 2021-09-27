@@ -2,6 +2,7 @@
   "name": "react-like-button",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://mooney79.github.io/react-like-button/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.14.1",
     "@testing-library/react": "^11.2.7",
@@ -37,6 +38,6 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  },
-  "homepage": "https://github.com/mooney79/react-like-button"
+  }
+ 
 }
